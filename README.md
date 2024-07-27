@@ -1,7 +1,7 @@
 **Evripos Robotics General Project Description (Future Engineers WRO 2023)**
 
 The robot consists of a chassis that is entirely designed by Evripos Robotics team, excluding the rear axle mounted differential for which we used the design by "Luciano Ricardo de Faria", taken from the thingiverse.com repository :
- ([https://www.thingiverse.com/thing:3270976]).
+ ([https://www.thingiverse.com/thing:3270976]).;;;;;;;;;;;;;;;;;;
  
 The chassis was 3D printed using the "Creality Ender 3 v2" 3d printer with the use of PLA type plastic. Some sanding may need after 3D printing on some parts in order to have a perfect fit with others parts or to rotate freely depending on the case.
 
